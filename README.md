@@ -1,2 +1,2 @@
-# machine-learning-programming-assignments-coursera-andrew-ng
+#Machine-Learning-Stanford--Programming-Assignments-Andrew-Ng-
 Solutions to Andrew NG's machine learning course on Coursera
